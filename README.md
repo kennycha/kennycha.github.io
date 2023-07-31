@@ -2,8 +2,15 @@
 
 ### Toursyouwaitingfor
 
-- [https://kennycha.github.io/toursyouwaitingfor/](https://kennycha.github.io/toursyouwaitingfor/)
+- [Check Here](https://kennycha.github.io/toursyouwaitingfor/)
+- [Github Link](https://github.com/kennycha/toursyouwaitingfor)
+
+### Phy Topster
+
+- [Check Here](https://kennycha.github.io/phy-topster/)
+- [Github Link](https://github.com/kennycha/phy-topster)
 
 ### Zelda Rolling Balls
 
-- [https://kennycha.github.io/zelda-rolling-balls/](https://kennycha.github.io/zelda-rolling-balls/)
+- [Check Here](https://kennycha.github.io/zelda-rolling-balls/)
+- [Github Link](https://github.com/kennycha/zelda-rolling-balls)
