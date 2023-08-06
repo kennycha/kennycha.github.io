@@ -12,6 +12,12 @@
 - [Check Here](https://kennycha.github.io/phy-topster/)
 - [Github Link](https://github.com/kennycha/phy-topster)
 
+### Simple Sound Graph
+
+- D3.js, Web Audio API
+- [Check Here](https://kennycha.github.io/simple-sound-graph/)
+- [Github Link](https://github.com/kennycha/simple-sound-graph)
+
 ### Simple Drum Machine
 
 - Three.js, Web Audio API
