@@ -3,6 +3,7 @@ import styles from "./index.module.scss";
 import CardDeck from "../CardDeck";
 import Header from "../Header";
 import Footer from "../Footer";
+import NoiseCanvas from "../NoiseCanvas";
 
 const cx = classNames.bind(styles);
 
@@ -12,6 +13,7 @@ const App = () => {
       <Header />
       <CardDeck />
       <Footer />
+      <NoiseCanvas />
     </div>
   );
 };
