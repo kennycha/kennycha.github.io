@@ -1,4 +1,10 @@
-## Projects
+## Kennycha Portfolio
+
+- React.js
+- [Check Here](https://kennycha.github.io/)
+- [Github Link](https://github.com/kennycha/kennycha.github.io)
+
+## Sub Projects Included
 
 ### Toursyouwaitingfor
 
