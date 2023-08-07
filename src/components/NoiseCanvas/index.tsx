@@ -36,7 +36,7 @@ const NoiseCanvas = () => {
 
     const textureLoader = new THREE.TextureLoader().setPath("assets/textures/");
     const texture = textureLoader.load("texture0.jpg");
-    const geometry = new THREE.PlaneGeometry(32, 32, 16, 16);
+    const geometry = new THREE.PlaneGeometry(48, 48, 16, 16);
     const material = new THREE.MeshBasicMaterial({
       map: texture,
     });
@@ -79,11 +79,7 @@ const NoiseCanvas = () => {
       renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
     };
 
-    window.addEventListener("resize", onWindowResize);
-
-    return () => {
-      window.removeEventListener("resize", onWindowResize);
-    };
+    window.onresize = onWindowResize;
   }, []);
 
   return <div ref={containerRef} className={cx("container")}></div>;
