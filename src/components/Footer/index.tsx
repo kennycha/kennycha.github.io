@@ -8,7 +8,7 @@ const Footer = () => {
     <footer className={cx("container")}>
       <p className={cx("copyright")}>&copy; kennycha</p>
       <p className={cx("separator")}>|</p>
-      <a className={cx("link")} href="/files/resume.pdf" target="_blank">
+      <a className={cx("link")} href="/assets/files/resume.pdf" target="_blank">
         <p>Resume</p>
       </a>
       <p className={cx("separator")}>|</p>
