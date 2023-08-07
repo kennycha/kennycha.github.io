@@ -1,0 +1,28 @@
+$font-color: #303030;
+
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  column-gap: 8px;
+  font-size: 18px;
+}
+
+.copyright {
+  color: $font-color;
+}
+
+.separator {
+  color: $font-color;
+}
+
+.link {
+  color: $font-color;
+  text-decoration: underline;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
