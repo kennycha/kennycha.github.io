@@ -1,10 +1,10 @@
 ## Kennycha Portfolio
 
-- React.js
+- React.js, React Spring, Three.js
 - [Check Here](https://kennycha.github.io/)
 - [Github Link](https://github.com/kennycha/kennycha.github.io)
 
-## Sub Projects Included
+## Projects Included
 
 ### Toursyouwaitingfor
 
