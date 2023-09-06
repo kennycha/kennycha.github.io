@@ -4,6 +4,8 @@ import image1 from "../../resources/images/image1.png?url";
 import image2 from "../../resources/images/image2.png?url";
 import image3 from "../../resources/images/image3.png?url";
 import image4 from "../../resources/images/image4.png?url";
+import image5 from "../../resources/images/image5.png?url";
+import image6 from "../../resources/images/image6.png?url";
 import classNames from "classnames/bind";
 import styles from "./index.module.scss";
 import { useState } from "react";
@@ -13,37 +15,51 @@ const SITE_BASE_URL = "https://kennycha.github.io";
 
 const CARDS = [
   {
+    name: "Google Form",
+    stack: "React.js, Redux, SCSS",
+    image: image0,
+    link: `google-form/`,
+    color: "#000000",
+  },
+  {
+    name: "Mine Sweeper",
+    stack: "React.js, Redux, SCSS",
+    image: image1,
+    link: `mine-sweeper/`,
+    color: "#FF6E31",
+  },
+  {
     name: "Toursyouwaitingfor",
     stack: "Three.js",
-    image: image0,
+    image: image2,
     link: `toursyouwaitingfor/`,
     color: "#0D1282",
   },
   {
     name: "Physics Topster",
     stack: "Three.js, Cannon-es",
-    image: image1,
+    image: image3,
     link: `phy-topster/`,
     color: "#1A5D1A",
   },
   {
     name: "Simple Sound Graph",
     stack: "D3.js, Web Audio",
-    image: image2,
+    image: image4,
     link: `simple-sound-graph/`,
     color: "#D71313",
   },
   {
     name: "Simple Drum Machine",
     stack: "Three.js, Web Audio",
-    image: image3,
+    image: image5,
     link: `simple-drum-machine/`,
     color: "#F0DE36",
   },
   {
     name: "Zelda's Rolling Balls",
     stack: "Three.js, Cannon-es, React.js",
-    image: image4,
+    image: image6,
     link: `zelda-rolling-balls/`,
     color: "#3D246C",
   },
