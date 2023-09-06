@@ -6,6 +6,18 @@
 
 ## Projects Included
 
+### Google Form
+
+- React.js, Redux, SCSS
+- [Check Here](https://kennycha.github.io/google-form/)
+- [Github Link](https://github.com/kennycha/google-form)
+
+### Mine Sweeper
+
+- React.js, Redux, SCSS
+- [Check Here](https://kennycha.github.io/mine-sweeper/)
+- [Github Link](https://github.com/kennycha/mine-sweeper)
+
 ### Toursyouwaitingfor
 
 - Three.js
